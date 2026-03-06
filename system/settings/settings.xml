@@ -278,7 +278,7 @@
           <control type="toggle" />
         </setting>
         <setting id="videoplayer.convertdovi" type="integer" label="39196" help="39197">
-          <visible>false</visible>
+          <visible>true</visible>
           <requirement>
             <or>
               <condition>HAS_MEDIACODEC</condition>
