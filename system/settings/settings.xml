@@ -285,11 +285,6 @@
               <condition>HAVE_AMCODEC</condition>
             </or>
           </requirement>
-          <dependencies>
-            <dependency type="visible">
-              <condition on="property" name="supportsdolbyvision" />
-            </dependency>
-          </dependencies>
           <level>2</level>
           <default>2</default>
           <control type="toggle" />
